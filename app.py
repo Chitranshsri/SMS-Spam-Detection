@@ -576,7 +576,7 @@ hero_html = """
     <div class="hero-wrapper">
         <div class="hero-badge">
             <span class="pulse-dot"></span>
-            <span>CYBER DEFENSE INTELLIGENCE</span>
+            <span>SMS SPAM/HAM ANALYZER</span>
             <span>&bull; v2.0</span>
         </div>
         <h1 class="hero-title">
